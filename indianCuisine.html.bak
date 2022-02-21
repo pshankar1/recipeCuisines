@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Indian Cuisine Recipes</title>
+    <link href="indian.css" type="text/css" rel="stylesheet"/>
+  </head>
+  <body>
+<h1 class="animation">Indian Cuisine</h1>  
+  <div class="center">
+  <div class="card">
+  <div class="title">
+    <h2>Jeera Rice</h2>
+  </div>
+  <div class="image">
+    <span class="food"></span>
+	  <img src="rice.png" alt="turkey">
+  </div>
+    <h3>Ingredients</h3>
+    <ul class="card_ingredients">
+     <li> 1 cup Basmati rice</li>
+    <li>3 cups water</li>
+    <li>Salt to taste</li>
+    <li>2 tablespoons vegetable, sunflower or canola oil/ghee</li>
+    <li>1 large onion (finely chopped)</li>
+    <li>1 2 teaspoons cumin seeds</li>
+     <li>1/2 cup water</li>
+  <li>Coriander leaves to garnish</li>
+  </ul>
+    <h3>Directions</h3>
+	<div class="card_directions">
+	<p>
+	 Wash the Basmati rice well in running water.
+     Add the 3 cups of water and salt to taste to the rice and set it up to boil.</li>
+ Once the rice is almost cooked (test a few grains often to check—they will feel soft on the outside but very slightly hard on the inside), remove from fire and drain the water by straining the rice through a sieve or colander. Set aside.
+     In another pan, heat the oil/ghee till hot and add onions.
+    Fry till light brown and then add the cumin seeds. The seeds will splutter and sizzle to show they are done.
+     Now add the rice and stir well.
+      Simmer till all the water dries up.
+ Allow the rice to stand for another 2 to 3 minutes and then serve garnished with coriander leaves.
+  </p>
+  </div>
+ </div>
+ </div>
+ <div class="center">
+  <div class="card">
+  <div class="title">
+    <h2>Spicy Minced Meat Kheema Paratha</h2>
+  </div>
+  <div class="image">
+	  <img src="bread.png" alt="chicken">
+  </div>
+    <h3>Ingredients</h3>
+    <ul class="card_ingredients">
+      <li>3 cups whole-wheat flour</li>
+    <li> 1 cup water, approximately</li>
+    <li>2 cups masala kheema</li>
+    <li>2 tablespoons ghee, or more as needed</li>
+  </ul>
+    <h3>Directions</h3>
+	<div class="card_directions">
+	<p>
+	Wash the Basmati rice well in running water.
+    Add the 3 cups of water and salt to taste to the rice and set it up to boil.
+    Once the rice is almost cooked (test a few grains often to check—they will feel soft on the outside but very slightly hard on the inside), remove from fire and drain the water by straining the rice through a sieve or colander. Set aside.
+   In another pan, heat the oil/ghee till hot and add onions.
+ Fry till light brown and then add the cumin seeds. The seeds will splutter and sizzle to show they are done.
+   1  Now add the rice and stir well.
+     Simmer till all the water dries up.
+  Allow the rice to stand for another 2 to 3 minutes and then serve garnished with coriander leaves.
+	</p>
+  </div>
+ </div>
+ </div>
+</body>
+</html>
